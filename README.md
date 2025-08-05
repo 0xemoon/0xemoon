@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hey! I'm **Emoon** — a passionate smart contract security researcher deeply focused on the **Solana blockchain** and **Rust-based smart contracts** 🦀. I spend most of my time exploring vulnerabilities, auditing high-performance protocols, and leveling up my skills every single day.
+Hey! I'm **Emon** — a passionate smart contract security researcher deeply focused on the **Solana blockchain** and **Rust-based smart contracts** 🦀. I spend most of my time exploring vulnerabilities, auditing high-performance protocols, and leveling up my skills every single day.
 
 I believe security is not just about defense — it's about understanding things deeply enough to break and rebuild them better.
 
