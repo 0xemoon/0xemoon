@@ -6,7 +6,7 @@ I believe security is not just about defense — it's about understanding things
 
 - 🔐 Specializing in **Solana Security**, **Rust Smart Contracts**, and **on-chain exploit research**
 - 🧠 I learn 18+ hours daily to become one of the **top Solana Rust auditors**
-- ⚙️ Always building, breaking, and learning — that's my cycle
+- ⚙️ Always building, breaking, and learning.
 
 ### 🚀 My Main Stack
 
